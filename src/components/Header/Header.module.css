@@ -1,0 +1,11 @@
+.HeaderSuccess {
+    background-color: green;
+}
+
+.HeaderFailure {
+    background-color: red;
+}
+
+.HeaderSuccess, .HeaderFailure {
+    padding: 1rem;
+}
